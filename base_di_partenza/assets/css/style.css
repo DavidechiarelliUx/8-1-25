@@ -451,7 +451,7 @@ section h2{
   border-radius: 50%;
   font-size: 30px;
   position: fixed;
-  bottom: 95px;
+  bottom: 75px;
   right: 0px;
   border: 2px solid white;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
@@ -464,7 +464,7 @@ section h2{
   border-radius: 50%;
   font-size: 30px;
   position: fixed;
-  bottom: 190px;
+  bottom: 150px;
   right: 0px;
   border: 2px solid white;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
@@ -493,10 +493,12 @@ aside div{
   width: 500px; 
 }
 .plus{
-bottom: 88%;
+top: 0;
+bottom: auto;
 }
 .calendar{
-bottom: 77%;
+top:90px;
+bottom: auto;
 }
 }
 
